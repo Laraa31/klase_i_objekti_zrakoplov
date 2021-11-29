@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\obj\Debug\klase_i_objekti_zrakoplov.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\obj\Debug\klase_i_objekti_zrakoplov.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\obj\Debug\klase_i_objekti_zrakoplov.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\bin\Debug\klase_i_objekti_zrakoplov.exe.config
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\bin\Debug\klase_i_objekti_zrakoplov.exe
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\bin\Debug\klase_i_objekti_zrakoplov.pdb
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\obj\Debug\klase_i_objekti_zrakoplov.exe
+C:\Users\LaPeM\source\repos\klase_i_objekti_zrakoplov\klase_i_objekti_zrakoplov\obj\Debug\klase_i_objekti_zrakoplov.pdb
